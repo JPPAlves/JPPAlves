@@ -1,6 +1,5 @@
-Olá , me chamo João Victor ! 
 
-## Bem vindo ao meu perfil GitHub 👋
+## Olá, Bem vindo ao meu perfil GitHub 👋
 Meu nome é João Victor, sou apaixonado por tecnologia. Tenho uma experiência pequena com desenvolvimento web, e forte competencia em SQL. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 🎓 Técnico em Informática - IFRO
@@ -16,7 +15,7 @@ Meu nome é João Victor, sou apaixonado por tecnologia. Tenho uma experiência 
           
 
           
-##📱Contatos:
+## 📱Contatos:
 <div>
 <a href="https://www.instagram.com/joaovictorpenhaalves/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>       
 <a href = "mailto:joaovictorpenhaalves@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
