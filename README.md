@@ -4,7 +4,7 @@ Meu nome é João Victor, sou apaixonado por tecnologia. Tenho uma experiência 
 
 🎓 Técnico em Informática - IFRO |
 📚 Cursando Analise e desenvolvimento de Sistemas - IFRO |
-🧑‍💻 Estágiando no SEBRAE-RO.
+🧑‍💻 SEBRAE-RO
 
 
 ## 🖥️Ferramentas e Tecnologias
