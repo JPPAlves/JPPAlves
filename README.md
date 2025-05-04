@@ -3,8 +3,8 @@
 Meu nome é João Victor, sou apaixonado por tecnologia. Tenho uma experiência pequena com desenvolvimento web, e forte competencia em SQL. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 🎓 Técnico em Informática - IFRO |
-📚 Cursando Analise e desenvolvimento de Sistemas - IFRO |
-🧑‍💻 SEBRAE-RO
+📚 Cursando Analise e desenvolvimento de Sistemas - IFRO | PJ
+
 
 
 ## 🖥️Ferramentas e Tecnologias
